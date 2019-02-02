@@ -1,0 +1,3797 @@
+
+
+19875
+
+19.875
+19.875
+19.9
+19937
+
+19.937
+19.937
+19.9
+temperature0=19.9
+20500
+
+20.5
+20.5
+20.5
+temperature1=20.5
+20000
+
+20.0
+20.0
+20.0
+20062
+
+20.062
+20.062
+20.1
+temperature2=20.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+26500
+
+26.5
+26.5
+26.5
+temperature0=26.5
+19125
+
+19.125
+19.125
+19.1
+19187
+
+19.187
+19.187
+19.2
+temperature1=19.2
+14562
+
+14.562
+14.562
+14.6
+14625
+
+14.625
+14.625
+14.6
+temperature2=14.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27125
+
+27.125
+27.125
+27.1
+temperature0=27.1
+19125
+
+19.125
+19.125
+19.1
+19125
+
+19.125
+19.125
+19.1
+temperature1=19.1
+14625
+
+14.625
+14.625
+14.6
+14625
+
+14.625
+14.625
+14.6
+temperature2=14.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28062
+
+28.062
+28.062
+28.1
+temperature0=28.1
+19125
+
+19.125
+19.125
+19.1
+19187
+
+19.187
+19.187
+19.2
+temperature1=19.2
+14937
+
+14.937
+14.937
+14.9
+14937
+
+14.937
+14.937
+14.9
+temperature2=14.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27937
+
+27.937
+27.937
+27.9
+temperature0=27.9
+19062
+
+19.062
+19.062
+19.1
+19062
+
+19.062
+19.062
+19.1
+temperature1=19.1
+15125
+
+15.125
+15.125
+15.1
+15125
+
+15.125
+15.125
+15.1
+temperature2=15.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27687
+
+27.687
+27.687
+27.7
+temperature0=27.7
+19062
+
+19.062
+19.062
+19.1
+19062
+
+19.062
+19.062
+19.1
+temperature1=19.1
+15437
+
+15.437
+15.437
+15.4
+15437
+
+15.437
+15.437
+15.4
+temperature2=15.4
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27875
+
+27.875
+27.875
+27.9
+temperature0=27.9
+19000
+
+19.0
+19.0
+19.0
+19000
+
+19.0
+19.0
+19.0
+temperature1=19.0
+15750
+
+15.75
+15.75
+15.8
+15750
+
+15.75
+15.75
+15.8
+temperature2=15.8
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28000
+
+28.0
+28.0
+28.0
+temperature0=28.0
+19000
+
+19.0
+19.0
+19.0
+19000
+
+19.0
+19.0
+19.0
+temperature1=19.0
+15937
+
+15.937
+15.937
+15.9
+15937
+
+15.937
+15.937
+15.9
+temperature2=15.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27750
+
+27.75
+27.75
+27.8
+temperature0=27.8
+18937
+
+18.937
+18.937
+18.9
+18937
+
+18.937
+18.937
+18.9
+temperature1=18.9
+15875
+
+15.875
+15.875
+15.9
+15875
+
+15.875
+15.875
+15.9
+temperature2=15.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27875
+
+27.875
+27.875
+27.9
+temperature0=27.9
+18875
+
+18.875
+18.875
+18.9
+18875
+
+18.875
+18.875
+18.9
+temperature1=18.9
+15750
+
+15.75
+15.75
+15.8
+15750
+
+15.75
+15.75
+15.8
+temperature2=15.8
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27500
+
+27.5
+27.5
+27.5
+temperature0=27.5
+18750
+
+18.75
+18.75
+18.8
+18750
+
+18.75
+18.75
+18.8
+temperature1=18.8
+15625
+
+15.625
+15.625
+15.6
+15625
+
+15.625
+15.625
+15.6
+temperature2=15.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27250
+
+27.25
+27.25
+27.3
+temperature0=27.3
+18937
+
+18.937
+18.937
+18.9
+18937
+
+18.937
+18.937
+18.9
+temperature1=18.9
+15500
+
+15.5
+15.5
+15.5
+15562
+
+15.562
+15.562
+15.6
+temperature2=15.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27687
+
+27.687
+27.687
+27.7
+temperature0=27.7
+18937
+
+18.937
+18.937
+18.9
+18937
+
+18.937
+18.937
+18.9
+temperature1=18.9
+15375
+
+15.375
+15.375
+15.4
+15437
+
+15.437
+15.437
+15.4
+temperature2=15.4
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27687
+
+27.687
+27.687
+27.7
+temperature0=27.7
+19062
+
+19.062
+19.062
+19.1
+19062
+
+19.062
+19.062
+19.1
+temperature1=19.1
+15312
+
+15.312
+15.312
+15.3
+15312
+
+15.312
+15.312
+15.3
+temperature2=15.3
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27562
+
+27.562
+27.562
+27.6
+temperature0=27.6
+19125
+
+19.125
+19.125
+19.1
+19125
+
+19.125
+19.125
+19.1
+temperature1=19.1
+15312
+
+15.312
+15.312
+15.3
+15312
+
+15.312
+15.312
+15.3
+temperature2=15.3
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27562
+
+27.562
+27.562
+27.6
+temperature0=27.6
+19187
+
+19.187
+19.187
+19.2
+19187
+
+19.187
+19.187
+19.2
+temperature1=19.2
+15187
+
+15.187
+15.187
+15.2
+15187
+
+15.187
+15.187
+15.2
+temperature2=15.2
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27625
+
+27.625
+27.625
+27.6
+temperature0=27.6
+19250
+
+19.25
+19.25
+19.3
+19250
+
+19.25
+19.25
+19.3
+temperature1=19.3
+15000
+
+15.0
+15.0
+15.0
+15000
+
+15.0
+15.0
+15.0
+temperature2=15.0
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27500
+
+27.5
+27.5
+27.5
+temperature0=27.5
+19312
+
+19.312
+19.312
+19.3
+19312
+
+19.312
+19.312
+19.3
+temperature1=19.3
+14625
+
+14.625
+14.625
+14.6
+14687
+
+14.687
+14.687
+14.7
+temperature2=14.7
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27312
+
+27.312
+27.312
+27.3
+temperature0=27.3
+19312
+
+19.312
+19.312
+19.3
+19312
+
+19.312
+19.312
+19.3
+temperature1=19.3
+14437
+
+14.437
+14.437
+14.4
+14500
+
+14.5
+14.5
+14.5
+temperature2=14.5
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27375
+
+27.375
+27.375
+27.4
+temperature0=27.4
+19312
+
+19.312
+19.312
+19.3
+19312
+
+19.312
+19.312
+19.3
+temperature1=19.3
+14375
+
+14.375
+14.375
+14.4
+14375
+
+14.375
+14.375
+14.4
+temperature2=14.4
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27375
+
+27.375
+27.375
+27.4
+temperature0=27.4
+19312
+
+19.312
+19.312
+19.3
+19312
+
+19.312
+19.312
+19.3
+temperature1=19.3
+14125
+
+14.125
+14.125
+14.1
+14187
+
+14.187
+14.187
+14.2
+temperature2=14.2
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27562
+
+27.562
+27.562
+27.6
+temperature0=27.6
+19312
+
+19.312
+19.312
+19.3
+19312
+
+19.312
+19.312
+19.3
+temperature1=19.3
+13937
+
+13.937
+13.937
+13.9
+13937
+
+13.937
+13.937
+13.9
+temperature2=13.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27687
+
+27.687
+27.687
+27.7
+temperature0=27.7
+19312
+
+19.312
+19.312
+19.3
+19312
+
+19.312
+19.312
+19.3
+temperature1=19.3
+14062
+
+14.062
+14.062
+14.1
+14062
+
+14.062
+14.062
+14.1
+temperature2=14.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27375
+
+27.375
+27.375
+27.4
+temperature0=27.4
+19250
+
+19.25
+19.25
+19.3
+19250
+
+19.25
+19.25
+19.3
+temperature1=19.3
+14625
+
+14.625
+14.625
+14.6
+14687
+
+14.687
+14.687
+14.7
+temperature2=14.7
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27062
+
+27.062
+27.062
+27.1
+temperature0=27.1
+19187
+
+19.187
+19.187
+19.2
+19187
+
+19.187
+19.187
+19.2
+temperature1=19.2
+15000
+
+15.0
+15.0
+15.0
+15062
+
+15.062
+15.062
+15.1
+temperature2=15.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27250
+
+27.25
+27.25
+27.3
+temperature0=27.3
+19187
+
+19.187
+19.187
+19.2
+19187
+
+19.187
+19.187
+19.2
+temperature1=19.2
+15562
+
+15.562
+15.562
+15.6
+15562
+
+15.562
+15.562
+15.6
+temperature2=15.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27562
+
+27.562
+27.562
+27.6
+temperature0=27.6
+19187
+
+19.187
+19.187
+19.2
+19250
+
+19.25
+19.25
+19.3
+temperature1=19.3
+15562
+
+15.562
+15.562
+15.6
+15562
+
+15.562
+15.562
+15.6
+temperature2=15.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28250
+
+28.25
+28.25
+28.3
+temperature0=28.3
+19312
+
+19.312
+19.312
+19.3
+19312
+
+19.312
+19.312
+19.3
+temperature1=19.3
+15812
+
+15.812
+15.812
+15.8
+15875
+
+15.875
+15.875
+15.9
+temperature2=15.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28375
+
+28.375
+28.375
+28.4
+temperature0=28.4
+19312
+
+19.312
+19.312
+19.3
+19312
+
+19.312
+19.312
+19.3
+temperature1=19.3
+14937
+
+14.937
+14.937
+14.9
+14937
+
+14.937
+14.937
+14.9
+temperature2=14.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28375
+
+28.375
+28.375
+28.4
+temperature0=28.4
+19312
+
+19.312
+19.312
+19.3
+19312
+
+19.312
+19.312
+19.3
+temperature1=19.3
+13312
+
+13.312
+13.312
+13.3
+13312
+
+13.312
+13.312
+13.3
+temperature2=13.3
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28250
+
+28.25
+28.25
+28.3
+temperature0=28.3
+19312
+
+19.312
+19.312
+19.3
+19312
+
+19.312
+19.312
+19.3
+temperature1=19.3
+12187
+
+12.187
+12.187
+12.2
+12187
+
+12.187
+12.187
+12.2
+temperature2=12.2
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27937
+
+27.937
+27.937
+27.9
+temperature0=27.9
+19250
+
+19.25
+19.25
+19.3
+19250
+
+19.25
+19.25
+19.3
+temperature1=19.3
+11250
+
+11.25
+11.25
+11.3
+11250
+
+11.25
+11.25
+11.3
+temperature2=11.3
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27687
+
+27.687
+27.687
+27.7
+temperature0=27.7
+19187
+
+19.187
+19.187
+19.2
+19187
+
+19.187
+19.187
+19.2
+temperature1=19.2
+10437
+
+10.437
+10.437
+10.4
+10437
+
+10.437
+10.437
+10.4
+temperature2=10.4
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28062
+
+28.062
+28.062
+28.1
+temperature0=28.1
+19250
+
+19.25
+19.25
+19.3
+19250
+
+19.25
+19.25
+19.3
+temperature1=19.3
+9687
+
+9.687
+9.687
+9.7
+9687
+
+9.687
+9.687
+9.7
+temperature2=9.7
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27875
+
+27.875
+27.875
+27.9
+temperature0=27.9
+19250
+
+19.25
+19.25
+19.3
+19312
+
+19.312
+19.312
+19.3
+temperature1=19.3
+9250
+
+9.25
+9.25
+9.3
+9250
+
+9.25
+9.25
+9.3
+temperature2=9.3
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27875
+
+27.875
+27.875
+27.9
+temperature0=27.9
+19312
+
+19.312
+19.312
+19.3
+19375
+
+19.375
+19.375
+19.4
+temperature1=19.4
+8687
+
+8.687
+8.687
+8.7
+8687
+
+8.687
+8.687
+8.7
+temperature2=8.7
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27750
+
+27.75
+27.75
+27.8
+temperature0=27.8
+19375
+
+19.375
+19.375
+19.4
+19375
+
+19.375
+19.375
+19.4
+temperature1=19.4
+8312
+
+8.312
+8.312
+8.3
+8312
+
+8.312
+8.312
+8.3
+temperature2=8.3
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27562
+
+27.562
+27.562
+27.6
+temperature0=27.6
+19375
+
+19.375
+19.375
+19.4
+19375
+
+19.375
+19.375
+19.4
+temperature1=19.4
+7937
+
+7.937
+7.937
+7.9
+7937
+
+7.937
+7.937
+7.9
+temperature2=7.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27375
+
+27.375
+27.375
+27.4
+temperature0=27.4
+19375
+
+19.375
+19.375
+19.4
+19375
+
+19.375
+19.375
+19.4
+temperature1=19.4
+7687
+
+7.687
+7.687
+7.7
+7687
+
+7.687
+7.687
+7.7
+temperature2=7.7
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27500
+
+27.5
+27.5
+27.5
+temperature0=27.5
+19562
+
+19.562
+19.562
+19.6
+19562
+
+19.562
+19.562
+19.6
+temperature1=19.6
+7375
+
+7.375
+7.375
+7.4
+7375
+
+7.375
+7.375
+7.4
+temperature2=7.4
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27437
+
+27.437
+27.437
+27.4
+temperature0=27.4
+19812
+
+19.812
+19.812
+19.8
+19812
+
+19.812
+19.812
+19.8
+temperature1=19.8
+6937
+
+6.937
+6.937
+6.9
+6937
+
+6.937
+6.937
+6.9
+temperature2=6.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27187
+
+27.187
+27.187
+27.2
+temperature0=27.2
+20062
+
+20.062
+20.062
+20.1
+temperature1=20.1
+7062
+
+7.062
+7.062
+7.1
+7125
+
+7.125
+7.125
+7.1
+temperature2=7.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+27562
+
+27.562
+27.562
+27.6
+temperature0=27.6
+20062
+
+20.062
+20.062
+20.1
+temperature1=20.1
+7937
+
+7.937
+7.937
+7.9
+7937
+
+7.937
+7.937
+7.9
+temperature2=7.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28312
+
+28.312
+28.312
+28.3
+temperature0=28.3
+20062
+
+20.062
+20.062
+20.1
+temperature1=20.1
+11875
+
+11.875
+11.875
+11.9
+11875
+
+11.875
+11.875
+11.9
+temperature2=11.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28437
+
+28.437
+28.437
+28.4
+temperature0=28.4
+20000
+
+20.0
+20.0
+20.0
+20000
+
+20.0
+20.0
+20.0
+temperature1=20.0
+13062
+
+13.062
+13.062
+13.1
+13125
+
+13.125
+13.125
+13.1
+temperature2=13.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28625
+
+28.625
+28.625
+28.6
+temperature0=28.6
+19875
+
+19.875
+19.875
+19.9
+19875
+
+19.875
+19.875
+19.9
+temperature1=19.9
+14312
+
+14.312
+14.312
+14.3
+14312
+
+14.312
+14.312
+14.3
+temperature2=14.3
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29125
+
+29.125
+29.125
+29.1
+temperature0=29.1
+19875
+
+19.875
+19.875
+19.9
+19937
+
+19.937
+19.937
+19.9
+temperature1=19.9
+15375
+
+15.375
+15.375
+15.4
+15437
+
+15.437
+15.437
+15.4
+temperature2=15.4
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28937
+
+28.937
+28.937
+28.9
+temperature0=28.9
+20000
+
+20.0
+20.0
+20.0
+20000
+
+20.0
+20.0
+20.0
+temperature1=20.0
+16312
+
+16.312
+16.312
+16.3
+16312
+
+16.312
+16.312
+16.3
+temperature2=16.3
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28562
+
+28.562
+28.562
+28.6
+temperature0=28.6
+20000
+
+20.0
+20.0
+20.0
+20000
+
+20.0
+20.0
+20.0
+temperature1=20.0
+16812
+
+16.812
+16.812
+16.8
+16812
+
+16.812
+16.812
+16.8
+temperature2=16.8
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28687
+
+28.687
+28.687
+28.7
+temperature0=28.7
+20000
+
+20.0
+20.0
+20.0
+20000
+
+20.0
+20.0
+20.0
+temperature1=20.0
+17125
+
+17.125
+17.125
+17.1
+17125
+
+17.125
+17.125
+17.1
+temperature2=17.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28250
+
+28.25
+28.25
+28.3
+temperature0=28.3
+20000
+
+20.0
+20.0
+20.0
+20062
+
+20.062
+20.062
+20.1
+temperature1=20.1
+17250
+
+17.25
+17.25
+17.3
+17312
+
+17.312
+17.312
+17.3
+temperature2=17.3
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28500
+
+28.5
+28.5
+28.5
+temperature0=28.5
+20062
+
+20.062
+20.062
+20.1
+temperature1=20.1
+17062
+
+17.062
+17.062
+17.1
+17062
+
+17.062
+17.062
+17.1
+temperature2=17.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28750
+
+28.75
+28.75
+28.8
+temperature0=28.8
+19937
+
+19.937
+19.937
+19.9
+19937
+
+19.937
+19.937
+19.9
+temperature1=19.9
+16187
+
+16.187
+16.187
+16.2
+16187
+
+16.187
+16.187
+16.2
+temperature2=16.2
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28812
+
+28.812
+28.812
+28.8
+temperature0=28.8
+19937
+
+19.937
+19.937
+19.9
+19937
+
+19.937
+19.937
+19.9
+temperature1=19.9
+14937
+
+14.937
+14.937
+14.9
+14937
+
+14.937
+14.937
+14.9
+temperature2=14.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28812
+
+28.812
+28.812
+28.8
+temperature0=28.8
+20000
+
+20.0
+20.0
+20.0
+20000
+
+20.0
+20.0
+20.0
+temperature1=20.0
+14125
+
+14.125
+14.125
+14.1
+14125
+
+14.125
+14.125
+14.1
+temperature2=14.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28812
+
+28.812
+28.812
+28.8
+temperature0=28.8
+20000
+
+20.0
+20.0
+20.0
+20062
+
+20.062
+20.062
+20.1
+temperature1=20.1
+13562
+
+13.562
+13.562
+13.6
+13562
+
+13.562
+13.562
+13.6
+temperature2=13.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28812
+
+28.812
+28.812
+28.8
+temperature0=28.8
+20062
+
+20.062
+20.062
+20.1
+temperature1=20.1
+12937
+
+12.937
+12.937
+12.9
+12937
+
+12.937
+12.937
+12.9
+temperature2=12.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29250
+
+29.25
+29.25
+29.3
+temperature0=29.3
+20125
+
+20.125
+20.125
+20.1
+temperature1=20.1
+12375
+
+12.375
+12.375
+12.4
+12312
+
+12.312
+12.312
+12.3
+temperature2=12.3
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29562
+
+29.562
+29.562
+29.6
+temperature0=29.6
+20125
+
+20.125
+20.125
+20.1
+temperature1=20.1
+11937
+
+11.937
+11.937
+11.9
+11937
+
+11.937
+11.937
+11.9
+temperature2=11.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29625
+
+29.625
+29.625
+29.6
+temperature0=29.6
+20187
+
+20.187
+20.187
+20.2
+temperature1=20.2
+11500
+
+11.5
+11.5
+11.5
+11500
+
+11.5
+11.5
+11.5
+temperature2=11.5
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29562
+
+29.562
+29.562
+29.6
+temperature0=29.6
+20250
+
+20.25
+20.25
+20.3
+temperature1=20.3
+11062
+
+11.062
+11.062
+11.1
+11062
+
+11.062
+11.062
+11.1
+temperature2=11.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29625
+
+29.625
+29.625
+29.6
+temperature0=29.6
+20250
+
+20.25
+20.25
+20.3
+temperature1=20.3
+10812
+
+10.812
+10.812
+10.8
+10812
+
+10.812
+10.812
+10.8
+temperature2=10.8
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29562
+
+29.562
+29.562
+29.6
+temperature0=29.6
+20250
+
+20.25
+20.25
+20.3
+temperature1=20.3
+10562
+
+10.562
+10.562
+10.6
+10562
+
+10.562
+10.562
+10.6
+temperature2=10.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29500
+
+29.5
+29.5
+29.5
+temperature0=29.5
+20187
+
+20.187
+20.187
+20.2
+temperature1=20.2
+10500
+
+10.5
+10.5
+10.5
+10500
+
+10.5
+10.5
+10.5
+temperature2=10.5
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29562
+
+29.562
+29.562
+29.6
+temperature0=29.6
+19687
+
+19.687
+19.687
+19.7
+19687
+
+19.687
+19.687
+19.7
+temperature1=19.7
+10437
+
+10.437
+10.437
+10.4
+10437
+
+10.437
+10.437
+10.4
+temperature2=10.4
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29562
+
+29.562
+29.562
+29.6
+temperature0=29.6
+18812
+
+18.812
+18.812
+18.8
+18812
+
+18.812
+18.812
+18.8
+temperature1=18.8
+10562
+
+10.562
+10.562
+10.6
+10625
+
+10.625
+10.625
+10.6
+temperature2=10.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29812
+
+29.812
+29.812
+29.8
+temperature0=29.8
+19062
+
+19.062
+19.062
+19.1
+19000
+
+19.0
+19.0
+19.0
+temperature1=19.0
+11562
+
+11.562
+11.562
+11.6
+11562
+
+11.562
+11.562
+11.6
+temperature2=11.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29812
+
+29.812
+29.812
+29.8
+temperature0=29.8
+19187
+
+19.187
+19.187
+19.2
+19187
+
+19.187
+19.187
+19.2
+temperature1=19.2
+14062
+
+14.062
+14.062
+14.1
+14125
+
+14.125
+14.125
+14.1
+temperature2=14.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29812
+
+29.812
+29.812
+29.8
+temperature0=29.8
+19250
+
+19.25
+19.25
+19.3
+19250
+
+19.25
+19.25
+19.3
+temperature1=19.3
+15187
+
+15.187
+15.187
+15.2
+15187
+
+15.187
+15.187
+15.2
+temperature2=15.2
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+30062
+
+30.062
+30.062
+30.1
+temperature0=30.1
+19312
+
+19.312
+19.312
+19.3
+19375
+
+19.375
+19.375
+19.4
+temperature1=19.4
+16375
+
+16.375
+16.375
+16.4
+16375
+
+16.375
+16.375
+16.4
+temperature2=16.4
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29937
+
+29.937
+29.937
+29.9
+temperature0=29.9
+19375
+
+19.375
+19.375
+19.4
+19375
+
+19.375
+19.375
+19.4
+temperature1=19.4
+17500
+
+17.5
+17.5
+17.5
+17500
+
+17.5
+17.5
+17.5
+temperature2=17.5
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29437
+
+29.437
+29.437
+29.4
+temperature0=29.4
+19437
+
+19.437
+19.437
+19.4
+19437
+
+19.437
+19.437
+19.4
+temperature1=19.4
+18625
+
+18.625
+18.625
+18.6
+18625
+
+18.625
+18.625
+18.6
+temperature2=18.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29250
+
+29.25
+29.25
+29.3
+temperature0=29.3
+19562
+
+19.562
+19.562
+19.6
+19562
+
+19.562
+19.562
+19.6
+temperature1=19.6
+19437
+
+19.437
+19.437
+19.4
+19437
+
+19.437
+19.437
+19.4
+temperature2=19.4
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29125
+
+29.125
+29.125
+29.1
+temperature0=29.1
+19687
+
+19.687
+19.687
+19.7
+19687
+
+19.687
+19.687
+19.7
+temperature1=19.7
+19750
+
+19.75
+19.75
+19.8
+19750
+
+19.75
+19.75
+19.8
+temperature2=19.8
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29500
+
+29.5
+29.5
+29.5
+temperature0=29.5
+19812
+
+19.812
+19.812
+19.8
+19812
+
+19.812
+19.812
+19.8
+temperature1=19.8
+19937
+
+19.937
+19.937
+19.9
+19937
+
+19.937
+19.937
+19.9
+temperature2=19.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29875
+
+29.875
+29.875
+29.9
+temperature0=29.9
+19937
+
+19.937
+19.937
+19.9
+19937
+
+19.937
+19.937
+19.9
+temperature1=19.9
+19562
+
+19.562
+19.562
+19.6
+19562
+
+19.562
+19.562
+19.6
+temperature2=19.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29937
+
+29.937
+29.937
+29.9
+temperature0=29.9
+19937
+
+19.937
+19.937
+19.9
+20000
+
+20.0
+20.0
+20.0
+temperature1=20.0
+19000
+
+19.0
+19.0
+19.0
+19000
+
+19.0
+19.0
+19.0
+temperature2=19.0
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29812
+
+29.812
+29.812
+29.8
+temperature0=29.8
+19937
+
+19.937
+19.937
+19.9
+20000
+
+20.0
+20.0
+20.0
+temperature1=20.0
+18000
+
+18.0
+18.0
+18.0
+18062
+
+18.062
+18.062
+18.1
+temperature2=18.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29687
+
+29.687
+29.687
+29.7
+temperature0=29.7
+19937
+
+19.937
+19.937
+19.9
+20000
+
+20.0
+20.0
+20.0
+temperature1=20.0
+17687
+
+17.687
+17.687
+17.7
+17750
+
+17.75
+17.75
+17.8
+temperature2=17.8
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29875
+
+29.875
+29.875
+29.9
+temperature0=29.9
+19937
+
+19.937
+19.937
+19.9
+20000
+
+20.0
+20.0
+20.0
+temperature1=20.0
+17625
+
+17.625
+17.625
+17.6
+17625
+
+17.625
+17.625
+17.6
+temperature2=17.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29875
+
+29.875
+29.875
+29.9
+temperature0=29.9
+19937
+
+19.937
+19.937
+19.9
+19937
+
+19.937
+19.937
+19.9
+temperature1=19.9
+17312
+
+17.312
+17.312
+17.3
+17312
+
+17.312
+17.312
+17.3
+temperature2=17.3
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+30000
+
+30.0
+30.0
+30.0
+temperature0=30.0
+19875
+
+19.875
+19.875
+19.9
+19937
+
+19.937
+19.937
+19.9
+temperature1=19.9
+17000
+
+17.0
+17.0
+17.0
+17000
+
+17.0
+17.0
+17.0
+temperature2=17.0
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+30062
+
+30.062
+30.062
+30.1
+temperature0=30.1
+19875
+
+19.875
+19.875
+19.9
+19937
+
+19.937
+19.937
+19.9
+temperature1=19.9
+16625
+
+16.625
+16.625
+16.6
+16625
+
+16.625
+16.625
+16.6
+temperature2=16.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29625
+
+29.625
+29.625
+29.6
+temperature0=29.6
+19875
+
+19.875
+19.875
+19.9
+19937
+
+19.937
+19.937
+19.9
+temperature1=19.9
+16375
+
+16.375
+16.375
+16.4
+16375
+
+16.375
+16.375
+16.4
+temperature2=16.4
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29187
+
+29.187
+29.187
+29.2
+temperature0=29.2
+19875
+
+19.875
+19.875
+19.9
+19875
+
+19.875
+19.875
+19.9
+temperature1=19.9
+15875
+
+15.875
+15.875
+15.9
+15937
+
+15.937
+15.937
+15.9
+temperature2=15.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29437
+
+29.437
+29.437
+29.4
+temperature0=29.4
+19875
+
+19.875
+19.875
+19.9
+19875
+
+19.875
+19.875
+19.9
+temperature1=19.9
+15687
+
+15.687
+15.687
+15.7
+15687
+
+15.687
+15.687
+15.7
+temperature2=15.7
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29250
+
+29.25
+29.25
+29.3
+temperature0=29.3
+19875
+
+19.875
+19.875
+19.9
+19875
+
+19.875
+19.875
+19.9
+temperature1=19.9
+15625
+
+15.625
+15.625
+15.6
+15625
+
+15.625
+15.625
+15.6
+temperature2=15.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28875
+
+28.875
+28.875
+28.9
+temperature0=28.9
+19875
+
+19.875
+19.875
+19.9
+19875
+
+19.875
+19.875
+19.9
+temperature1=19.9
+15562
+
+15.562
+15.562
+15.6
+15562
+
+15.562
+15.562
+15.6
+temperature2=15.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28812
+
+28.812
+28.812
+28.8
+temperature0=28.8
+20000
+
+20.0
+20.0
+20.0
+20000
+
+20.0
+20.0
+20.0
+temperature1=20.0
+15687
+
+15.687
+15.687
+15.7
+15687
+
+15.687
+15.687
+15.7
+temperature2=15.7
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29312
+
+29.312
+29.312
+29.3
+temperature0=29.3
+20062
+
+20.062
+20.062
+20.1
+temperature1=20.1
+15937
+
+15.937
+15.937
+15.9
+15937
+
+15.937
+15.937
+15.9
+temperature2=15.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29062
+
+29.062
+29.062
+29.1
+temperature0=29.1
+20125
+
+20.125
+20.125
+20.1
+temperature1=20.1
+16000
+
+16.0
+16.0
+16.0
+16062
+
+16.062
+16.062
+16.1
+temperature2=16.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29187
+
+29.187
+29.187
+29.2
+temperature0=29.2
+20125
+
+20.125
+20.125
+20.1
+temperature1=20.1
+16187
+
+16.187
+16.187
+16.2
+16187
+
+16.187
+16.187
+16.2
+temperature2=16.2
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+29125
+
+29.125
+29.125
+29.1
+temperature0=29.1
+20062
+
+20.062
+20.062
+20.1
+temperature1=20.1
+16375
+
+16.375
+16.375
+16.4
+16437
+
+16.437
+16.437
+16.4
+temperature2=16.4
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28625
+
+28.625
+28.625
+28.6
+temperature0=28.6
+20125
+
+20.125
+20.125
+20.1
+temperature1=20.1
+16750
+
+16.75
+16.75
+16.8
+16812
+
+16.812
+16.812
+16.8
+temperature2=16.8
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28562
+
+28.562
+28.562
+28.6
+temperature0=28.6
+20125
+
+20.125
+20.125
+20.1
+temperature1=20.1
+17250
+
+17.25
+17.25
+17.3
+17250
+
+17.25
+17.25
+17.3
+temperature2=17.3
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28437
+
+28.437
+28.437
+28.4
+temperature0=28.4
+20062
+
+20.062
+20.062
+20.1
+temperature1=20.1
+17625
+
+17.625
+17.625
+17.6
+17625
+
+17.625
+17.625
+17.6
+temperature2=17.6
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28687
+
+28.687
+28.687
+28.7
+temperature0=28.7
+20062
+
+20.062
+20.062
+20.1
+temperature1=20.1
+17812
+
+17.812
+17.812
+17.8
+17812
+
+17.812
+17.812
+17.8
+temperature2=17.8
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28687
+
+28.687
+28.687
+28.7
+temperature0=28.7
+20125
+
+20.125
+20.125
+20.1
+temperature1=20.1
+18125
+
+18.125
+18.125
+18.1
+18125
+
+18.125
+18.125
+18.1
+temperature2=18.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28562
+
+28.562
+28.562
+28.6
+temperature0=28.6
+20000
+
+20.0
+20.0
+20.0
+20000
+
+20.0
+20.0
+20.0
+temperature1=20.0
+18187
+
+18.187
+18.187
+18.2
+18187
+
+18.187
+18.187
+18.2
+temperature2=18.2
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28625
+
+28.625
+28.625
+28.6
+temperature0=28.6
+20187
+
+20.187
+20.187
+20.2
+temperature1=20.2
+17937
+
+17.937
+17.937
+17.9
+17937
+
+17.937
+17.937
+17.9
+temperature2=17.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28875
+
+28.875
+28.875
+28.9
+temperature0=28.9
+20250
+
+20.25
+20.25
+20.3
+temperature1=20.3
+17625
+
+17.625
+17.625
+17.6
+17687
+
+17.687
+17.687
+17.7
+temperature2=17.7
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28812
+
+28.812
+28.812
+28.8
+temperature0=28.8
+20250
+
+20.25
+20.25
+20.3
+temperature1=20.3
+16937
+
+16.937
+16.937
+16.9
+16937
+
+16.937
+16.937
+16.9
+temperature2=16.9
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+28625
+
+28.625
+28.625
+28.6
+temperature0=28.6
+20187
+
+20.187
+20.187
+20.2
+temperature1=20.2
+16125
+
+16.125
+16.125
+16.1
+16125
+
+16.125
+16.125
+16.1
+temperature2=16.1
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 171, in main
+    log_temperature(temperature0,temperature1,temperature2)
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 34, in log_temperature
+    curs.execute("INSERT INTO temps values(datetime('now','localtime'), (?), (?), (?))", (temp0,temp1,temp2))
+sqlite3.OperationalError: no such table: temps
+
+
+Traceback (most recent call last):
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 180, in <module>
+    main()
+  File "/usr/lib/cgi-bin/monitor_3sensors.py", line 111, in main
+    w1devicefile0 = devicelist[0] + '/w1_slave'
+IndexError: list index out of range
